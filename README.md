@@ -58,3 +58,13 @@ Source : https://101blockchains.com/
 ---
 </details>
 
+<details>
+<summary> What are Wallets ? </summary>
+<br/>
+
+* Objects that store the private and public key of an individual 
+* The public key is the address of the wallet
+* Helps to sign transactions
+  
+---
+</details>
