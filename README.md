@@ -33,3 +33,15 @@ Source : https://101blockchains.com/
   
 ---
 </details>
+
+<details>
+<summary> Why use the Blockchain ? </summary>
+<br/>
+
+* Decentralization leads to a trustless system
+* No middlemen and no fees
+* Higly secure and no central point of failure
+* Dependable data
+  
+---
+</details>
