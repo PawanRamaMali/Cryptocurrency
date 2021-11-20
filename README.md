@@ -69,8 +69,23 @@ Source : https://101blockchains.com/
 ---
 </details>
 
+
 <details>
-<summary> Bitcoin </summary>
+<summary> What is Mining ? </summary>
+<br/>
+
+* Transactions that are temporarily "unconfirmed"
+* Include blocks of transactions by solving a "proof of work" algorithm
+  * Difficult to solve and compoutationally expensive
+  * Once solved, the miner can add the block and other miners will verify
+  * Miners are rewarded for adding a block to the chain
+  * The difficulty can adjust to control the rate of new blocks coming in.
+  
+---
+</details>
+
+<details>
+<summary> What is Bitcoin ? </summary>
 <br/>
 
 * The first decentralized cryptocurrency in 2009
