@@ -68,3 +68,13 @@ Source : https://101blockchains.com/
   
 ---
 </details>
+
+<details>
+<summary> Bitcoin </summary>
+<br/>
+
+* The first decentralized cryptocurrency in 2009
+* Great growth and widespread adoption
+  
+---
+</details>
