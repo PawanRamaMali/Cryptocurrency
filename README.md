@@ -45,3 +45,16 @@ Source : https://101blockchains.com/
   
 ---
 </details>
+
+<details>
+<summary> What is Cryptocurrency ? </summary>
+<br/>
+
+* A cryptocurrency is a digital medium of exchange of currencies 
+* It has three main features: a secure blockchain, wallets, and mining
+* Uses cryptography to generate digital signatures: private and public key
+* Signature is generated using private key + transaction data, this signature can be validated using the public key
+  
+---
+</details>
+
